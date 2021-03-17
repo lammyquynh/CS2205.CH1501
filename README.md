@@ -10,3 +10,8 @@ Course: Phương Pháp Nghiên Cứu Khoa Học
 - Nguyễn Xuân Huy - CH2002007 - git repo: https://github.com/XuanHuyuit/CS2205.CH1501
 - Lâm Mỹ Quỳnh - CH2004013 - git repo: https://github.com/lammyquynh/CS2205.CH1501
 - Phạm Ngọc Bảo Cương - CH2001024 - git repo: https://github.com/pnbaocuong/CS2205.CH1501
+
+# Exercise Done
+- QT01: Tự giới thiệu
+- QT02: Tạo github repository cá nhân
+- QT03: Tạo nhóm
