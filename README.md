@@ -17,12 +17,6 @@ Course: Phương Pháp Nghiên Cứu Khoa Học
 - QT03: Tạo nhóm
 - QT04:
 - QT05:
-- QT06:
-- QT07:
-
-
-
-
 
 
 
